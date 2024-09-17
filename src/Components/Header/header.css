@@ -1,0 +1,12 @@
+header {
+    background-color: #017474;
+    padding: 35px;
+
+    h2 {
+        text-transform: capitalize;
+        text-align: center;
+        font-size: 32px;
+        color: white;
+    }
+}
+
